@@ -1,0 +1,14 @@
+D:\Summer-2024\PRN231\Project\Assignment1\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\Summer-2024\PRN231\Project\Assignment1\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+D:\Summer-2024\PRN231\Project\Assignment1\DAL\bin\Debug\net6.0\DAL.dll
+D:\Summer-2024\PRN231\Project\Assignment1\DAL\bin\Debug\net6.0\DAL.pdb
+D:\Summer-2024\PRN231\Project\Assignment1\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\Summer-2024\PRN231\Project\Assignment1\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Summer-2024\PRN231\Project\Assignment1\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\Summer-2024\PRN231\Project\Assignment1\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\Summer-2024\PRN231\Project\Assignment1\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\Summer-2024\PRN231\Project\Assignment1\DAL\obj\Debug\net6.0\DAL.dll
+D:\Summer-2024\PRN231\Project\Assignment1\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\Summer-2024\PRN231\Project\Assignment1\DAL\obj\Debug\net6.0\DAL.pdb
+D:\Summer-2024\PRN231\Project\Assignment1\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+D:\Summer-2024\PRN231\Project\Assignment1\DAL\obj\Debug\net6.0\ref\DAL.dll

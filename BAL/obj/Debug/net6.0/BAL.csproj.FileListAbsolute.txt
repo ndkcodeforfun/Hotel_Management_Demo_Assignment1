@@ -1,0 +1,15 @@
+D:\Summer-2024\PRN231\Project\Assignment1\BAL\bin\Debug\net6.0\BAL.deps.json
+D:\Summer-2024\PRN231\Project\Assignment1\BAL\bin\Debug\net6.0\BAL.dll
+D:\Summer-2024\PRN231\Project\Assignment1\BAL\bin\Debug\net6.0\BAL.pdb
+D:\Summer-2024\PRN231\Project\Assignment1\BAL\bin\Debug\net6.0\DAL.dll
+D:\Summer-2024\PRN231\Project\Assignment1\BAL\bin\Debug\net6.0\DAL.pdb
+D:\Summer-2024\PRN231\Project\Assignment1\BAL\obj\Debug\net6.0\BAL.csproj.AssemblyReference.cache
+D:\Summer-2024\PRN231\Project\Assignment1\BAL\obj\Debug\net6.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Summer-2024\PRN231\Project\Assignment1\BAL\obj\Debug\net6.0\BAL.AssemblyInfoInputs.cache
+D:\Summer-2024\PRN231\Project\Assignment1\BAL\obj\Debug\net6.0\BAL.AssemblyInfo.cs
+D:\Summer-2024\PRN231\Project\Assignment1\BAL\obj\Debug\net6.0\BAL.csproj.CoreCompileInputs.cache
+D:\Summer-2024\PRN231\Project\Assignment1\BAL\obj\Debug\net6.0\BAL.csproj.CopyComplete
+D:\Summer-2024\PRN231\Project\Assignment1\BAL\obj\Debug\net6.0\BAL.dll
+D:\Summer-2024\PRN231\Project\Assignment1\BAL\obj\Debug\net6.0\refint\BAL.dll
+D:\Summer-2024\PRN231\Project\Assignment1\BAL\obj\Debug\net6.0\BAL.pdb
+D:\Summer-2024\PRN231\Project\Assignment1\BAL\obj\Debug\net6.0\ref\BAL.dll
